@@ -1,6 +1,6 @@
 # brainthrottle
 
-Attempts to detect when you are skimming text (through excessive scrolling) and progressively dims the screen to slow you down. The idea is silly but it kinda works.
+Attempts to detect when you are skimming text (through excessive scrolling) and progressively dims the screen to slow you down. 
 
 <p align="center"><img src="http://foote.pub/images/brainthrottle-crappy.gif" alt="Crappy gif"><br><i>Crappy cell phone video demo</i></p>
 
