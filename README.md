@@ -25,7 +25,7 @@ When you should be comprehending what you are reading and scrolling is a good pr
 $ ./brainthrottle
 ```
 
-You can how much scrolling triggers a screen dim, how long the screen is dimmed, etc. via constants at the top of `brainthrottle.c`. Command line options are on the `TODO` list.
+You can set how much scrolling triggers a screen dim, how long the screen is dimmed, etc. via constants at the top of `brainthrottle.c`. Command line options are on the `TODO` list.
 
 
 ### Design
